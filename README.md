@@ -1,4 +1,4 @@
-# About Me
+# 🐈 About Me
 
 A student that's learning about programming.
 
