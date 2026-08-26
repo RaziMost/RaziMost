@@ -1,6 +1,8 @@
 # 🐈 About Me:
 
 A student that's learning about programming.
+16 y/0 Male
+Lived in Indonesia 🇮🇩
 
 
 ## 🌐 Socials:
