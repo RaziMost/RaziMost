@@ -1,7 +1,7 @@
 # 🐈 About Me:
 
 A student that's interested to learn about programming.
-16 y/0 Male.
+16 y/o Male.
 Lived in Indonesia.
 
 
