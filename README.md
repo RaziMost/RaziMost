@@ -1,4 +1,6 @@
-A student that's learning about programming
+# About Me
+
+A student that's learning about programming.
 
 
 ## 🌐 Socials:
